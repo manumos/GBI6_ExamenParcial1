@@ -11,14 +11,14 @@
     Tipo de sistema: Sistema operativo de 64 bit, procesador x64
   Configuración de nombre, dominio y grupo de trabajo del equipo
     Nombre del equipo:DESKTOP-4EKE4Q8
- #Programas utilizados
+#Programas utilizados
   Correo electrónico: Correo
   Mapas : Mapas
   Reproductor de música: Groove música
   Visualizador de fotos: Fotos
   Reproductor de video : Películas y TV
   Explorador web: Firefox
-  #Data utilizada
+#Data utilizada
   Datos personales
     Datos de contacto
    Para las caracteríticas del computador
