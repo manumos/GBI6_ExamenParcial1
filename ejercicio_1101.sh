@@ -1,4 +1,4 @@
-#se deben ingresar argumentos
+#Argumentos
 #$1=nombre del archivo original
 #$2=nombre asignado a la copia
 
